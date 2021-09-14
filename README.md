@@ -18,7 +18,7 @@
 
 
 
-![Screenshot](https://github.com/filtitov2001/TRPP_Bot/blob/master/images/installing%20dependencies.png)
+![Screenshot](https://github.com/filtitov2001/Polska_Calculator/blob/master/image/img.png)
 
 
 
